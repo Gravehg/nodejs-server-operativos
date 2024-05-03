@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-server-operativos",
+  "version": "1.0.0",
+  "description": "servidor nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
